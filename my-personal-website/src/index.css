@@ -1,0 +1,43 @@
+/*
+
+*/
+div {
+    background-color: grey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  border: 2px solid yellow;
+  background-color: black;
+}
+p.about {
+  color: blue;
+}
+b {
+  color: black;
+}
+
+/*
+style for the lists (ol + ul)
+*/
+h3 {
+  border: 3px solid;
+  width: 20%;
+  text-align: center;
+}
+ul {
+  border: 2px dotted red;
+  width: 15%;
+}
+
+
+/*
+style for the table
+*/
+table {
+  border: 2px dotted blue;
+}
+th, td {
+  border: 1px solid;
+}
