@@ -37,9 +37,6 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background-color: BlanchedAlmond;
 }
-#table-striped{
-  background-color: gray;
-}
 #food {
   margin: 15px;
 }
@@ -62,4 +59,21 @@ tr:nth-child(odd) {
   padding: 1px;
   padding-bottom: 5px;
   font-family: fantasy;
+}
+
+
+/*
+Registration page style
+*/
+#reqback{
+  background-color: gray;
+}
+#req{
+  color: red;
+  border: 0px;
+}
+#directions{
+  color: gray;
+  font-size: 12px;
+  padding-right: 400px;
 }
