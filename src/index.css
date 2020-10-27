@@ -1,0 +1,65 @@
+/*
+
+*/
+html {
+  background-color: darkgrey;
+}
+
+#head {
+  background-color: lightgray;
+}
+#intro {
+  background-color: silver;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  background-color: black;
+  padding: 10px;
+}
+p.about {
+  color: black;
+  padding: 20px;
+  border: 2px dotted black;
+
+}
+#mid {
+  background-color: lavender;
+}
+h3 {
+  border: 3px solid;
+  text-align: center;
+}
+tr:nth-child(even) {
+  background-color: LightSteelBlue;
+}
+tr:nth-child(odd) {
+  background-color: BlanchedAlmond;
+}
+#table-striped{
+  background-color: gray;
+}
+#food {
+  margin: 15px;
+}
+#sport {
+  margin: 15px;
+
+}
+
+.button {
+  background-color: green;
+  border: 1px solid black;
+  padding: 1px;
+  margin-top: 100px;
+  cursor: pointer;
+  color: black;
+}
+
+#foot {
+  background-color: grey;
+  padding: 1px;
+  padding-bottom: 5px;
+  font-family: fantasy;
+}
