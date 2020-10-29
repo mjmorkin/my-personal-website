@@ -32,10 +32,11 @@ h3 {
   text-align: center;
 }
 tr:nth-child(even) {
-  background-color: LightSteelBlue;
+  background-color: white;
 }
 tr:nth-child(odd) {
-  background-color: BlanchedAlmond;
+  background-color: black;
+  color: white;
 }
 #table-striped{
   background-color: gray;
