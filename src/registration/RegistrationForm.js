@@ -139,7 +139,8 @@ return(
         <input class="form-control" type="password" id="passwordConf" onChange={handleChange} required />
       </div>
         <button type="submit" className="btn btn-primary" onClick={handleSubmitClick}>Create Account</button>
-      </form>
+        <Link to="/">Login</Link>
+    </form>
   </div>
 )
 }
